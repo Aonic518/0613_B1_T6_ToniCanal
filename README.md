@@ -15,4 +15,3 @@
 - Executa el projecte amb un servidor PHP (per exemple, XAMPP).
 - Assegura't que la carpeta `dades` té permís d'escriptura.
 - No pugis `dades/vots.json` al repositori.
-# 0613_B1_T6_ToniCanal
